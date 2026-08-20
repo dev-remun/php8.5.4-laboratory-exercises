@@ -21,7 +21,7 @@
     $student_two = new Student("std2", "pass", 2, "BS Computer Science - 4A");
 
     $librarian_one = new Librarian("lib1@gmail.com", "pass", "College of Science", 1);
-    $librarian_two = new Librarian("librarian2@gmail.com", "password", "College of Nursing", 2);
+    $librarian_two = new Librarian("lib2@gmail.com", "pass", "College of Nursing", 2);
 
     $book_one = new Book("Book 1", "Lorem Ipsum", $sample_abstract, "02-02-2002");
     $book_two = new Book("Book 2", "Lorem Ipsum", $sample_abstract, "02-06-2002");
