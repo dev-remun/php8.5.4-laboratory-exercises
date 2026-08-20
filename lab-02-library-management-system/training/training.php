@@ -18,7 +18,7 @@
                         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 
     $student_one = new Student("std1", "pass", 1, "BS Computer Science - 4B");
-    $student_two = new Student("std2", "pass", 2, "BS Computer Science - 4A");
+    $student_two = new Student("std2", "pass", 2, "BS Computer Science - 4B");
 
     $librarian_one = new Librarian("lib1", "pass", "College of Science", 1);
     $librarian_two = new Librarian("lib2", "pass", "College of Science", 2);
